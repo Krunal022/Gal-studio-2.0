@@ -5,6 +5,10 @@
   font-family: figtree;
 }
 
+@font-face {
+  font-family: "figtree";
+  src: url(accets/font/Figtree-VariableFont_wght.ttf);
+}
 html,
 body {
   width: 100%;
